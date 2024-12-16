@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 208.34 141.01">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: Stencil, Stencil;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #cc3266;
+        font-size: 37.69px;
+      }
+
+      .cls-3 {
+        fill: #6fcbdc;
+      }
+
+      .cls-2 {
+        font-family: LucidaHandwriting-Italic, 'Lucida Handwriting';
+        font-style: italic;
+      }
+    </style>
+  </defs>
+  <ellipse class="cls-3" cx="104.17" cy="70.5" rx="104.17" ry="70.5"/>
+  <g>
+    <text class="cls-1" transform="translate(26.49 97.2)"><tspan x="0" y="0">Gurman</tspan></text>
+    <text class="cls-2" transform="translate(28.19 67.89)"><tspan x="0" y="0">Grewal</tspan></text>
+  </g>
+</svg>
